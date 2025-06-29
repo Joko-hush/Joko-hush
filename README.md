@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joko-hush
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP
+- 👀 I’m interested in NextJs
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on PHP and NextJs
 - 📫 You can just email me at jokobudiyanto@hotmail.com
 
 <!---
